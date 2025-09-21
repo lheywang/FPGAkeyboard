@@ -1,0 +1,4 @@
+[submodule "RV32"]
+	path = RV32
+	url = https://github.com/lheywang/RV32.git
+	branch = dev
